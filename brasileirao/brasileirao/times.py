@@ -1,0 +1,22 @@
+times = {
+    "América-MG": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Athletico-PR": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Atlético-MG": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Bahia": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Botafogo": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Corinthians": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Coritiba": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Cruzeiro": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Cuiabá": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Flamengo": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Fluminense": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Fortaleza": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Goiás": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Grêmio": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Internacional": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Palmeiras": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Bragantino": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Santos": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "São Paulo": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0},
+    "Vasco da Gama": {"Pontos": 0, "Vitórias": 0, "Empates": 0, "Derrotas": 0, "Saldo de Gols": 0, "Gols Marcados": 0, "Gols Sofridos": 0}
+}
